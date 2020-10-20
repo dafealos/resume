@@ -145,15 +145,6 @@ Virtual
 
 60 horas
 
-### Introducción al cambio climático. 
-UNCC: LEARN. Unitar. 
-
-Virtual
-
-2016
-
-12 horas
-
 ### Principios de la Norma GLOBALG.A.P V5.1 en Frutales Exportables
 
 Escuela latinoamericana de innovación agropecuaria
@@ -185,6 +176,14 @@ Virtual
 ### Satellite remote sensing for agricultural applications
 
 NASA’s ARSET.
+
+Virtual
+
+2020
+
+### Data Science: Foundations using R
+
+Coursera.
 
 Virtual
 
