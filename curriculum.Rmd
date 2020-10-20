@@ -1,0 +1,292 @@
+---
+title: "Daniel Alvarado's resume"
+author: Daniel Alvarado
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume: 
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to pre HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> dafealos@gmail.com
+- <i class="fa fa-phone"></i> +57 311 238 9342
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/daniel-alvarado-ospino-516578135/) 
+
+Software {#skills}
+--------------------------------------------------------------------------------
+
+```{r, echo=FALSE}
+knitr::include_graphics("img/qgis.png")
+```
+`QGIS`
+
+<i class="fab fa-r-project"></i> `R`
+
+<i class="far fa-chart-bar"></i> `Tidyverse`
+
+<i class="fab fa-github"></i> `GitHub`
+
+Idiomas {#lenguages}
+--------------------------------------------------------------------------------
+**Ingles:** Avanzado
+
+**Frances:** Intermedio
+
+**Portugues:** Intermedio
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Daniel F. Alvarado Ospino {#title}
+--------------------------------------------------------------------------------
+
+### Ingeniero Agrónomo 
+**MATRICULA PROFESIONAL 021019-0509512 ATL**
+
+<div class=text-justify>
+
+Como ingeniero agrónomo estoy en la capacidad de liderar procesos de producción agrícola de forma amigable con el medio ambiente, teniendo en cuenta las relaciones suelo-ambiente-planta y respetando las interacciones con los microorganismos presentes buscando preservar la estabilidad ecosistémica. Siempre he estado involucrado en procesos de investigación y soy bueno en las áreas de entomología, palinología, manejo en base de datos e idiomas extranjeros.
+
+</div>
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### SENA
+
+Tecnólogo en administración de empresas agropecuarias
+
+El banco-Mag., Colombia 
+
+2014
+
+### Slovak University of Agriculture in Nitra
+
+Semestre de intercambio
+
+Nitra, Eslovaquia
+
+2017
+
+### CUN - Conoldo
+
+Diplomado en Competencias TIC en la línea temática de **Levantamiento de información y georreferenciación**
+
+Santa Marta, Colombia
+
+2018
+
+### Universidad del Magdalena
+
+Ingeniería agrónomica
+
+Santa Marta, Colombia
+
+2019
+
+Cursos {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Identificación de proyectos
+
+SENA
+
+Virtual
+
+2011
+
+40 horas
+
+### Gestión y educación ambiental
+
+SENA
+
+Virtual
+
+2012
+
+48 horas
+
+### Administración de proyectos: características, factores de éxito, técnicas y herramientas administrativas
+
+SENA
+
+Virtual
+
+2012
+
+40 horas
+
+### Ingles preintermediate
+
+SENA
+
+Virtual
+
+2012
+
+60 horas
+
+### Introducción al cambio climático. 
+UNCC: LEARN. Unitar. 
+
+Virtual
+
+2016
+
+12 horas
+
+### Principios de la Norma GLOBALG.A.P V5.1 en Frutales Exportables
+
+Escuela latinoamericana de innovación agropecuaria
+
+Virtual
+
+2018
+
+1.5 horas
+
+### Formación de Auditores de Inocuidad en Sistemas de Producción Vegetal
+
+OIRSA
+
+Virtual
+
+2019
+
+70 horas
+
+### SAR y sus aplicaciones para la cobertura terrestre
+
+NASA´S ARSET
+
+Virtual
+
+2019
+
+### Satellite remote sensing for agricultural applications
+
+NASA’s ARSET.
+
+Virtual
+
+2020
+
+Experiencia {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Unidad Municipal de Asistencia Técnica Agropecuaria
+
+Asistente tecnico
+
+El banco-MAG, Colombia
+
+2013  mar - 2013 ago
+
+- Asistente en la elaboración plan general de asistencia técnica agropecuaria para el municipio de El Banco, Magdalena.
+
+
+### Universidad del Magdalena
+
+Ayudante de investigación “Grupo de investigación Fitotecnia del Trópico”
+
+Santa Marta, Colombia
+
+2017 feb - 2017 jun
+
+Ayudante proyecto “Malezas asociadas a plantaciones bananeras del departamento del Magdalena”.
+
+
+### Universidad del Magdalena
+
+Asistente laboratorio de entomología
+
+Santa Marta, Colombia
+
+2018 feb - 2018 nov
+
+Procesamiento de muestras proyecto “Diversidad de abejas asociadas a cultivos de palma en el departamento del Magdalena”.
+
+### Instituto de Biociencias - Centro de Estudos de insetos Sociais - UNESP
+
+Pasantia de investigación
+
+Rio Claro-SP, Brasil
+
+2019 abr - 2019 ago
+
+Apoyar en diferentes trabajos de investigación.
+
+### SATIVA NATIVA SAS
+
+Practica profesional
+
+Santa Marta, Colombia
+
+2019 sep - 2020 mar
+
+::: concise
+- Pruebas de evaluación agronómica
+- Registro de plagas.
+:::
+
+Publicaciones {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Análisis de cargas polínicas en un agroecosistema palmero en el norte del departamento del Magdalena.
+
+Tesis meritoria
+
+Santa Marta, Colombia
+
+2019
+
+Alvarado, Daniel F.
+
+### Análisis de cargas polínicas de abejas silvestres en un agroecosistema palmero del Caribe colombiano
+
+Memorias de XI Congreso mesoamericano de abejas nativas.
+
+Cholula, Puebla. Mexico
+
+2019
+
+Alvarado, Daniel F. Y Sepúlveda-Cano, Paula.
+
+### The plants visited by bees in Canada, with focus on *Eucera pruinosa* Say, 1837 (Apidae, Eucerini)
+
+Capitulo de libro
+
+Rio Claro-SP, Brasil
+
+2020
+
+Nunes-silva, Patricia; Silva, Claudia; Alvarado, Daniel F; y Kevan, Peter.
+
+### Pollen load analysis of wild bees in an oil palm crop in Magdalena, Colombia
+
+Capitulo de libro
+
+Rio Claro-SP, Brasil
+
+2020
+
+Alvarado, Daniel F.;Miranda,  Kevin y Sepúlveda-cano, Paula.
